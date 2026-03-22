@@ -1,0 +1,11 @@
+{
+  "description": "RelivePhysio website",
+  "repo": "https://github.com/Harshit-FullStackDev/relive-physio-frontend",
+  "owner": {
+    "username": "Harshit-FullStackDev",
+    "email": "harshiitsonii@gmail.com"
+  },
+  "record": {
+    "TXT": "vc-domain-verify=www.relivephysio.is-a.dev,bf7bdea1afdd8684b9c2"
+  }
+}
